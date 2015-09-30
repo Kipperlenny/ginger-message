@@ -19,6 +19,6 @@
         "prooph/service-bus" : "*",
         "codeliner/array-reader": "~1.1",
         "zendframework/zend-stdlib" : "~2.3",
-        "rhumsaa/uuid" : "2.5.*"
+        "ramsey/uuid" : "2.5.*"
     }
 }
